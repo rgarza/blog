@@ -1,4 +1,4 @@
 baseURL = "http://blog.blah.mx"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "/me"
 theme = "hermit"

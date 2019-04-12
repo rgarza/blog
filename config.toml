@@ -1,4 +1,4 @@
-baseURL = "http://blog.blah.mx"
+baseURL = "https://blog.blah.mx"
 languageCode = "en-us"
 title = "/me"
 theme = "hermit"
